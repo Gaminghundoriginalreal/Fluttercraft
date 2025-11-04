@@ -1,0 +1,3 @@
+Fluttercraft is a minecraft copy made in Flutter!
+
+im updating this sometimes...
